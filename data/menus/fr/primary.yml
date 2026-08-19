@@ -88,15 +88,6 @@ items:
   - "/fotos-y-peliculas/las-carboneras-en-la-prensa/"
   path: "/pages/fotos-y-peliculas"
   file: content/fr/pages/fotos-y-peliculas/_index.html
-- title: Instituciones asociadas
-  slug: instituciones-asociadas
-  target: "/organisations/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/organizations"
-  file: content/fr/organizations/_index.html
 - title: Paisajes escondidos
   slug: paisajes-escondidos
   target: "/paisajes-escondidos/"
@@ -106,6 +97,15 @@ items:
   descendants_targets: []
   path: "/pages/paisajes-escondidos"
   file: content/fr/pages/paisajes-escondidos/_index.html
+- title: Instituciones asociadas
+  slug: instituciones-asociadas
+  target: "/organisations/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/organizations"
+  file: content/fr/organizations/_index.html
 - title: Contactos
   slug: contactos
   target: "/contactos/"
@@ -115,40 +115,4 @@ items:
   descendants_targets: []
   path: "/pages/contactos"
   file: content/fr/pages/contactos/_index.html
-- title: Actualités
-  slug: actualites
-  target: "/actualites/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
-- title: Agenda
-  slug: agenda
-  target: "/agenda/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/events"
-  file: content/fr/events/_index.html
-- title: Expositions
-  slug: expositions
-  target: "/expositions/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/exhibitions"
-  file: content/fr/exhibitions/_index.html
-- title: Personnes
-  slug: personnes
-  target: "/personnes/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
 
